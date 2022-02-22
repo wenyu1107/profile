@@ -1,5 +1,5 @@
-## Welcome to WEN Yu's CSDN Pages
+## WEN Yu
 
-You can click the [WEN Yu's CSDN](https://blog.csdn.net/qq3553685) to view the blog.
+You can click the [View on WEN Yu's CSDN](https://blog.csdn.net/qq3553685) to view on CSDN.
 
 
