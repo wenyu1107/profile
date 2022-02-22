@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to WEN Yu's CSDN Pages
 
-You can use the [editor on GitHub](https://github.com/wenyu1107/wenyucsdn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [WEN Yu's CSDN](https://blog.csdn.net/qq3553685) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
